@@ -1,0 +1,164 @@
+{
+  "polygon": {
+    "FWBTC": {
+      "name": "FWBTC",
+      "symbol": "FWBTC",
+      "decimals": 8,
+      "address": "0x7C9eE291869d2172FCD63cbA6163731792a3e4Fc"
+    },
+    "FWETH": {
+      "name": "FWETH",
+      "symbol": "FWETH",
+      "decimals": 18,
+      "address": "0xD5967c7437999CD2eA87E46eff65b3B824811695"
+    },
+    "FUSDT": {
+      "name": "FUSDT",
+      "symbol": "FUSDT",
+      "decimals": 6,
+      "address": "0x1790711d78E636e186312A89b93ae38eF6204aA5"
+    },
+    "FUSDC": {
+      "name": "FUSDC",
+      "symbol": "FUSDC",
+      "decimals": 6,
+      "address": "0xf8f3377b513EC22e9187Df2541E721bD53eB024c"
+    },
+    "FDAI": {
+      "name": "FDAI",
+      "symbol": "FDAI",
+      "decimals": 18,
+      "address": "0xbBe2feE343387f6b12DD183f9636804e302EF852"
+    },
+    "FSOL": {
+      "name": "FSOL",
+      "symbol": "FSOL",
+      "decimals": 18,
+      "address": "0x86bc53e25B8054B3E3A5D83Bc413E624c3025026"
+    },
+    "FDOGE": {
+      "name": "FDOGE",
+      "symbol": "FDOGE",
+      "decimals": 8,
+      "address": "0x743D710D710162950C7cfF98A08EA1dcfBcE862F"
+    },
+    "FXAU": {
+      "name": "FXAU",
+      "symbol": "FXAU",
+      "decimals": 6,
+      "address": "0x211d3c5ebE49591e4eedb3211C73Bbef8372b12D"
+    }
+  },
+  "localhost": {
+    "FWBTC": {
+      "name": "FWBTC",
+      "symbol": "FWBTC",
+      "decimals": 8,
+      "address": "0x5081a39b8A5f0E35a8D959395a630b68B74Dd30f"
+    },
+    "FWETH": {
+      "name": "FWETH",
+      "symbol": "FWETH",
+      "decimals": 18,
+      "address": "0x1fA02b2d6A771842690194Cf62D91bdd92BfE28d"
+    },
+    "FUSDT": {
+      "name": "FUSDT",
+      "symbol": "FUSDT",
+      "decimals": 6,
+      "address": "0xdbC43Ba45381e02825b14322cDdd15eC4B3164E6"
+    },
+    "FUSDC": {
+      "name": "FUSDC",
+      "symbol": "FUSDC",
+      "decimals": 6,
+      "address": "0x04C89607413713Ec9775E14b954286519d836FEf"
+    },
+    "FDAI": {
+      "name": "FDAI",
+      "symbol": "FDAI",
+      "decimals": 18,
+      "address": "0x4C4a2f8c81640e47606d3fd77B353E87Ba015584"
+    },
+    "FSOL": {
+      "name": "FSOL",
+      "symbol": "FSOL",
+      "decimals": 18,
+      "address": "0x21dF544947ba3E8b3c32561399E88B52Dc8b2823"
+    },
+    "FDOGE": {
+      "name": "FDOGE",
+      "symbol": "FDOGE",
+      "decimals": 8,
+      "address": "0x2E2Ed0Cfd3AD2f1d34481277b3204d807Ca2F8c2"
+    },
+    "FXAU": {
+      "name": "FXAU",
+      "symbol": "FXAU",
+      "decimals": 6,
+      "address": "0xD8a5a9b31c3C0232E196d518E89Fd8bF83AcAd43"
+    },
+    "FWMATIC": {
+      "name": "FWMATIC",
+      "symbol": "FWMATIC",
+      "decimals": 18,
+      "address": "0xDC11f7E700A4c898AE5CAddB1082cFfa76512aDD"
+    }
+  },
+  "polygonAmoy": {
+    "FWBTC": {
+      "name": "FWBTC",
+      "symbol": "FWBTC",
+      "decimals": 8,
+      "address": "0x7a153C686ef2b0D3e49760eA7537843af60B0501"
+    },
+    "FWETH": {
+      "name": "FWETH",
+      "symbol": "FWETH",
+      "decimals": 18,
+      "address": "0x4c5303cc2c9a23F513e848e8e70176A77e63b0E3"
+    },
+    "FUSDT": {
+      "name": "FUSDT",
+      "symbol": "FUSDT",
+      "decimals": 6,
+      "address": "0xe13f744288D917Dbb1Be223Ff37EdEc79F4f08D1"
+    },
+    "FUSDC": {
+      "name": "FUSDC",
+      "symbol": "FUSDC",
+      "decimals": 6,
+      "address": "0xeABE0393f03DD7685d881B924c64450e3F7a9418"
+    },
+    "FDAI": {
+      "name": "FDAI",
+      "symbol": "FDAI",
+      "decimals": 18,
+      "address": "0x4bEfbcFd3111EF08f02085Ad89680BF8Bc8067DB"
+    },
+    "FSOL": {
+      "name": "FSOL",
+      "symbol": "FSOL",
+      "decimals": 18,
+      "address": "0x0f8905A5B367DD35B66207fb3E154139FdFA8279"
+    },
+    "FDOGE": {
+      "name": "FDOGE",
+      "symbol": "FDOGE",
+      "decimals": 8,
+      "address": "0xdF0379FA1bE6e43bE6d4f62CB3ca2e0336A709C1"
+    },
+    "FXAU": {
+      "name": "FXAU",
+      "symbol": "FXAU",
+      "decimals": 6,
+      "address": "0x1E1D9aEde9Bd10Af5999982Ecf6544C8Fd444220"
+    },
+    "FWMATIC": {
+      "name": "FWMATIC",
+      "symbol": "FWMATIC",
+      "decimals": 18,
+      "address": "0x3ca6cfA5fF822a79cFBFb308738e130337E1B23C"
+    }
+  }
+}
