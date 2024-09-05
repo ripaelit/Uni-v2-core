@@ -46,8 +46,8 @@
     "compile": "npx hardhat compile",
     "test": "npx hardhat test",
 
-    "deploy-all": "npx hardhat run scripts/deploy/deployAll.ts",
-    "verify-all": "npx hardhat run scripts/verify/verifyAll.ts",
+    "deploy": "npx hardhat run scripts/deploy/deployAll.ts",
+    "verify": "npx hardhat run scripts/verify/verifyAll.ts",
     "mint": "npx hardhat run scripts/deploy/mint.ts",
     "deploy-ftokens": "npx hardhat run scripts/deploy/deployFTokens.ts",
     "verify-ftokens": "npx hardhat run scripts/verify/verifyFTokens.ts",
@@ -66,7 +66,6 @@
     "test-router-livenet": "yarn hardhat test scripts/test/livenet/FairSwapRouter.test.ts",
     "test-router-testnet": "yarn hardhat test scripts/test/testnet/FairSwapRouter.test.ts",
 
-    "verify": "yarn hardhat run scripts/verify/verify.ts",
     "verify-mock": "yarn hardhat run scripts/verify/verifyMock.ts --network polygonMumbai",
     "coverage": "yarn build && npx hardhat coverage --temp artifacts --network coverage",
     "postinstall": "yarn compile",
