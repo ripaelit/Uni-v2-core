@@ -1,14 +1,10 @@
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.9;
+pragma solidity >=0.5.0;
 
-interface IFairSwapFactory {
+interface IUniswapV2Factory {
     event PairCreated(address indexed token0, address indexed token1, address pair, uint);
 
     function feeTo() external view returns (address);
     function feeToSetter() external view returns (address);
-    function oracle() external view returns (address);
-    function secret() external view returns (address);
-    // function quoteAddress() external view returns (address);
 
     function getPair(address tokenA, address tokenB) external view returns (address pair);
     function allPairs(uint) external view returns (address pair);
@@ -18,10 +14,4 @@ interface IFairSwapFactory {
 
     function setFeeTo(address) external;
     function setFeeToSetter(address) external;
-    function setOracle(address _oracle) external;
-    function setSecret(address _secret) external;
-
-    // function setQuoteAddress(address _quoteAddress) external;
-    function setPairLeverage(address _pair,uint percentValue) external;
-    function setPairLeverage(address tokenA, address tokenB,uint percentValue) external;
 }
